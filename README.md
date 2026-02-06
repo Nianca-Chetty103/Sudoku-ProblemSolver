@@ -1,4 +1,5 @@
 # Sudoku-ProblemSolver 
+just a simple Ai /machine learning program that can solve sudoku problems
 
 ## Tech Stack
 -
